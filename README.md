@@ -19,7 +19,4 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=aysenurdeniz&&style=flat-square" align="right" />
 </div>  
-  
-
-<br/>  
 
