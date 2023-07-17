@@ -1,6 +1,3 @@
-### I'm Ayşenur, a graduate student at Inonu University.   
-  
-
 ##### Research Areas: Big Data Analytics, Machine Learning, Data Analysis and Visualization  
   
 
